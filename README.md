@@ -1,7 +1,6 @@
 # OncoRisk & BRCA1/BRCA2 Screening Pipeline
 ## Facility: GeneLab Bioscience | Precision Oncology Hub
 
-# [Paste the Repository Title Here]
 ![Pipeline Workflow Diagram](banner_oncorisk.png)
 
 ### 🧬 Overview
