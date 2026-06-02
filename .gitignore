@@ -1,0 +1,8 @@
+*.fastq
+*.fasta
+*.bam
+*.bai
+*.vcf
+*.gz
+*.pod5
+*.csv
